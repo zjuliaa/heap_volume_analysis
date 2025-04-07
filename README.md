@@ -37,7 +37,7 @@ Gdzie:
 
 <input_geojson> – ścieżka do pliku wejściowego GeoJSON z poligonami.
 
-<output_geojson> – ścieżka, gdzie zapisany zostanie przekształcony plik GeoJSON (po zmianie CRS) oraz wyniki analizt.
+<output_geojson> – ścieżka, gdzie zapisany zostanie przekształcony plik GeoJSON (po zmianie CRS) oraz wyniki analizy.
 
 <las_file> – ścieżka do pliku LAS z danymi LiDAR.
 
