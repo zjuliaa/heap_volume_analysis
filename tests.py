@@ -3,7 +3,7 @@ from unittest.mock import patch, MagicMock, ANY
 import geopandas as gpd
 import numpy as np
 from shapely.geometry import Polygon
-from dtm import *
+from heap_volume_analysis import *
 
 class TestDTMFunctions(unittest.TestCase):
     @patch('geopandas.read_file')
